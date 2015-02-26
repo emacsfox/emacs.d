@@ -1,0 +1,1 @@
+/home/lcl/Documents/c-project-manager-0.1/c-project-manager.el
